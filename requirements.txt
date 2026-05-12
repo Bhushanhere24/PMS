@@ -1,3 +1,6 @@
 # No external dependencies required for this project.
 flake8
 Flask
+gunicorn
+langchain
+numpy
